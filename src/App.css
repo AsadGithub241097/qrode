@@ -17,10 +17,12 @@
 }
 
 .boximg>img {
-  margin: 2em auto;
+  flex-wrap: wrap;
+  margin: 1em auto;
   display: flex;
-  height: auto;
-  width: 80%;
+  /* height: auto; */
+  width: 89%;
+  height: 89%;
   border-radius: 10px;
 }
 

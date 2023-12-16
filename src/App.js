@@ -6,7 +6,7 @@ function App() {
     <div className='App'>
       <div className="box">
         <div className='boximg'>
-          <img src={imge} />
+          <img src={imge}/>
         </div>
         <div className='text'>
           <p className='text1'>Improve your front-end skills by building projects</p>
